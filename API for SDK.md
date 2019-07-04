@@ -18,7 +18,7 @@ SetAd(selector,type)
 | Name           | Type        | Description                                                                     |
 |----------------|-------------|---------------------------------------------------------------------------------|
 | success        | String      | 廣告欄位之dom名稱                                                                 |
-| id             | String      | BANNER or VIDEO                                                                 |
+| id             | String      | `'BANNER'` or `'VIDEO'`                                                                 |
 
 Example
 ```
