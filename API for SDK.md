@@ -17,7 +17,7 @@ SetAd(selector,type)
 
 | Name           | Type        | Description                                                                     |
 |----------------|-------------|---------------------------------------------------------------------------------|
-| success        | String      |  CSS選擇器之字串，填入可選取到廣告欄位的選擇器，如`'#Ad`                                |
+| success        | String      |  CSS選擇器之字串，填入可選取到廣告欄位的選擇器，如`'#Ad'`                                |
 | id             | String      | `'BANNER'` or `'VIDEO'`                                                          |
 
 Example
