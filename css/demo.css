@@ -1,0 +1,75 @@
+.navBar {
+  height: 60px;
+  background-color: #4BB3BB;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.navBar .logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 10px;
+  color: #fff;
+}
+
+.navBar ul {
+  margin-top: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: roww;
+          flex-direction: roww;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.navBar ul li {
+  list-style-type: none;
+  padding: 0 10px;
+  color: #fff;
+}
+
+.container {
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .newsCard_wrapper {
+  margin-bottom: 10px;
+}
+
+.container .newsCard_wrapper .newsCard {
+  background-color: #e5e5e5;
+}
+
+.container .newsCard_wrapper .newsCard img {
+  max-width: 100%;
+}
+
+.container .newsCard_wrapper .newsCard .title {
+  padding: 10px;
+  text-decoration: none;
+}
+/*# sourceMappingURL=demo.css.map */
