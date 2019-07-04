@@ -4,7 +4,7 @@
   - [範例網頁](https://github.com/winnytu/aotter-assignment-sdk/blob/master/demo.html)
   - [test](https://github.com/winnytu/aotter-assignment-sdk/blob/master/js/test.js)
   - [API文件](https://github.com/winnytu/aotter-assignment-sdk/blob/master/API%20for%20SDK.md)
-  - [上線企劃書]
+  - [上線企劃書](https://github.com/winnytu/aotter-assignment-sdk/blob/master/SDK上線企劃書＿WinnyTu.docx)
 
 
 
