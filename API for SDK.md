@@ -17,8 +17,8 @@ SetAd(selector,type)
 
 | Name           | Type        | Description                                                                     |
 |----------------|-------------|---------------------------------------------------------------------------------|
-| success        | String      | 廣告欄位之dom名稱                                                                 |
-| id             | String      | `'BANNER'` or `'VIDEO'`                                                                 |
+| success        | String      |  CSS選擇器之字串，填入可選取到廣告欄位的選擇器，如`'#Ad`                                |
+| id             | String      | `'BANNER'` or `'VIDEO'`                                                          |
 
 Example
 ```
