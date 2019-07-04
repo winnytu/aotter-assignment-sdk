@@ -57,7 +57,6 @@ window.addEventListener('on-ad-failed',function(){
 
 ```
 on-ad-impression
-
 ```
 Example
 ```
