@@ -9,7 +9,7 @@ Example
 window.onload = GetAd()
 ```
 
-## 載入廣告
+## 在廣告欄位呈現廣告
 
 ```
 SetAd(selector,type) 
